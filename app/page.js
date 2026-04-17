@@ -41,8 +41,8 @@ export default function ComingSoon() {
         className="relative z-10 text-center max-w-2xl"
       >
         {/* Logo */}
-        <h2 className="text-lg tracking-widest text-gray-400 mb-4">
-          YOUR BRAND
+        <h2 className="tracking-widest text-gray-300 mb-4 text-2xl md:text-4xl">
+          pumpkidztv
         </h2>
 
         {/* Heading */}
